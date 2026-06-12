@@ -9,7 +9,7 @@ export default function About() {
           <motion.div 
             initial={{ opacity: 0, x: -20 }}
             animate={{ opacity: 1, x: 0 }}
-            className="sticky top-32"
+            className="lg:sticky lg:top-32"
           >
             <div className="aspect-[4/5] bg-brand-forest/5 rounded-2xl overflow-hidden shadow-sm relative w-full max-w-md mx-auto lg:mx-0">
                {/* Decorative placeholder for portrait */}
