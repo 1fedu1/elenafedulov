@@ -46,7 +46,7 @@ export default function Home() {
           >
             <div className="aspect-[4/5] bg-brand-beige rounded-2xl overflow-hidden shadow-sm relative">
               <img 
-                src="/portrait.jpg" 
+                src={`${import.meta.env.BASE_URL}portrait.jpg`} 
                 alt="Elena Fedulov" 
                 className="absolute inset-0 w-full h-full object-cover"
               />
