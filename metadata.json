@@ -1,0 +1,6 @@
+{
+  "name": "Elena Fedulov | Psiholog Clinician",
+  "description": "Website-ul de prezentare pentru cabinetul individual de psihologie clinică și psihoterapie Elena Fedulov.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
